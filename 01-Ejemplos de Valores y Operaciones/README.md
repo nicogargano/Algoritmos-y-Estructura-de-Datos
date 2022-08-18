@@ -1,4 +1,4 @@
-# Hello, World!
+# Ejemplos de Valores y Operaciones de Tipos de Datos
 
 • Curso : K1051
 
@@ -15,5 +15,5 @@ de Tipos de Datos
 
 • Transcripción del enunciado:
 
-    ◦ Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipos
-de datos vistos en clases.
+    ◦ Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipos 
+    de datos vistos en clases.
